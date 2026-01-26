@@ -1,7 +1,6 @@
 ###### ML Fundamentals
 
-© 2025 Samson Afolabi
-
+© 2026 Samson Afolabi
 
 Some Topics Covered:
 
