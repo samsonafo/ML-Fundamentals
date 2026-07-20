@@ -1,5 +1,7 @@
 ###### ML Fundamentals
 
+![Cover page](./img/cover_page.jpg)
+
 © 2026 Samson Afolabi
 
 Some Topics Covered:
